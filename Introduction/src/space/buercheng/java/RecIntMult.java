@@ -4,7 +4,7 @@ package space.buercheng.java;
  * 递归计算长整数乘法：
  * 输入：两个长度为n的整数x，y
  * 输出：x×y的乘积
- * n是2的幂:2,4,8,16...
+ *
  **/
 public class RecIntMult {
     //计算数字有多少位
